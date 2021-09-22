@@ -38,9 +38,15 @@ There is 4 races,7 occupations,100+skills here for option！Hundreds of monster 
 
 ## Social account
 Website:[https://www.gamefishiba.io/](https://www.gamefishiba.io/)
+
 Twitter:[https://twitter.com/GamefiShiba](https://twitter.com/GamefiShiba)
+
 Telegram:[https://t.me/GameFiShibaOffcial](https://t.me/GameFiShibaOffcial)
+
 Discrod:[https://discord.gg/YxJXpZbvBN](https://discord.gg/YxJXpZbvBN)
+
 Medium:[https://medium.com/@GameFiShiba](https://medium.com/@GameFiShiba)
+
 Contract address:[0xA085F089E74019259ADB8B91Bab222429c1309aE](https://bscscan.com/token/0xa085f089e74019259adb8b91bab222429c1309ae)
+
 emial:gamefishiba@gamefishiba.io
