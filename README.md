@@ -36,6 +36,17 @@ New players can receive a FREE virtual dog (not on the chain)once logged in. Pla
 
 There is 4 races,7 occupations,100+skills here for option！Hundreds of monster levels and millions of global players plus amazing reward prize are waiting for you! Everyone choose to battle in PVP or PvP a and fight for tokens as rewards prize. The top 1000 players will receive a decreasing token reward, and the player who ranks first will benefit the most in each period.
 
+## Smart Contract Address
+
+|name|network|address|
+|---|---|---|
+|GameFi|bsc|0xa085f089e74019259adb8b91bab222429c1309ae|
+|GameFiShiba|bsc|0xae1c71c6354230922d4d1fd3bacd3f4514d81947|
+|GameFiShibaCoinPool|bsc|0xbe888f697BaF7D3F4cB27Bc67c7adC129607f7c4|
+|GameFiShibaMarket|bsc|0x31EA99FEc4C7550d49E4Ca9EF74620D09440189c|
+|GameFiShibaSire|bsc|0xD0668DF84E623F0F419e6Baf0B83B6eB888a3C57|
+
+
 ## Social account
 Website:[https://www.gamefishiba.io/](https://www.gamefishiba.io/)
 
