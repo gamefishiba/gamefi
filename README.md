@@ -11,11 +11,11 @@ Issue Amount：1000000000
 
 
 ## Token Distribution 
-·70% for Game Rewards：70% Token will be distributed as game rewards of PvP, PvE and mining to all players. 
-·10% for Game Operation: 10% Token used for airdrop prizes, invitation rewards, currency listing, and promotion fees.
-·10% Early Investors  Return：10% Token will be rewarded to early investors and partners who helped the project.(locked for 2 years)
-·9% for Team Retention：10% Token will be used for team building, personnel recruitment, and corporate development. (locked for 2 years)
-·1% of liquidity：0.05% applied to trading pool to add liquidity in early stage, the left pending to the distributed.
+- 70% for Game Rewards：70% Token will be distributed as game rewards of PvP, PvE and mining to all players. 
+- 10% for Game Operation: 10% Token used for airdrop prizes, invitation rewards, currency listing, and promotion fees.
+- 10% Early Investors  Return：10% Token will be rewarded to early investors and partners who helped the project.(locked for 2 years)
+- 9% for Team Retention：10% Token will be used for team building, personnel recruitment, and corporate development. (locked for 2 years)
+- 1% of liquidity：0.05% applied to trading pool to add liquidity in early stage, the left pending to the distributed.
 
 >1% Token is used as a reserve for liquidity. For the first time, 0.05%=500,000 GameFI Token are placed: 10 ETH is used to construct a trading pool as the initial circulation, and it will be continuously supplemented to 1% to add liquidity.
 
