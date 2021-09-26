@@ -1,4 +1,4 @@
-GameFiShiba：The dark horse of Chain Game
+# GameFiShiba：The dark horse of Chain Game
 
 About the team：A professional crypto game team with many years of working experience in well-known game companies. The most important thing is that we like dogs very much! So we created this crypto pet world and designed many cute dogs! We hope more people can develop their virtual dogs online, enjoy the fun of gaming, and also play to earn! We desire to turn this game into a source of virtual pets, attracting millions of players around the world to join us and benefit from the magic of the Blockchain. 
 
